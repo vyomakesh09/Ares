@@ -1,4 +1,4 @@
-# {Member's Name} Task Breakdown
+# Vyom's Task Breakdown
 
 ## Discord Bot Development
 
