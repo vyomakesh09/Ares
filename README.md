@@ -34,7 +34,7 @@
 
 - [ ] Create a README for the agent using the following template:
 
-Hey Chat GPT please make a readme for a specialized agent idea <Insert idea Word vomit here > following this template
+Hey Chat GPT please make a readme for a specialized agent idea ```Insert idea Word vomit here``` following this template
 
 ${Agent Name}
 
